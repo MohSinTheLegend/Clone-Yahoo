@@ -4,38 +4,31 @@
 </p>
 
 
-# Installation :
+## Install script on Termux
+```python
+$ apt update && apt upgrade
+$ apt install python2
+$ apt install nodejs
+$ pip2 install lolcat
+$ pip2 install mechanize
+$ pip2 install requests bs4
+$ apt install git
+$ git clone https://github.com/MohsinTheLegend/Clone-Yahoo
+```
+#### Run script
+```python
+$ cd Clone-Yahoo
+$ python2 MOHSIN.pyc
+```
 
-☠ apt update 
-☠ apt upgrade -y
+#### [~] Single Command
 
-☠ apt install git -y
-
-☠ pkg install python
-
-☠ pkg install python2 -y
-
-☠ pip2 install requests
-
-☠ pip2 install mechanize
-
-
-
-☠ apt install ruby -y && gem install lolcat`
-
-# Clone this Script :
-
-☠ `git clone https://github.com/MohsinTheLegend/ALI-V2`
-
-# Run Script
-
-☠ `cd ALI-V2`
-
-☠ `python2 MOHSIN.pyc`
-
+```python
+apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y ; pip2 install lolcat ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/MohsinTheLegend/Clone-Yahoo ; cd Clone-Yahoo ; python2 MOHSIN.pyc
+```
 # TOOL USERNAME OR PASS
-# *USER `MOHSIN`
-# PASS `SYCO`
+# *USER `NO NEED`
+# PASS `NO NEED`
 
 # WARNING :
 `THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE.
